@@ -1,5 +1,7 @@
 # Overview
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MailOnline/node-zookeeper-build-fix.svg)](https://greenkeeper.io/)
+
 node-zookeeper - A Node.js client for Apache Zookeeper.
 
 This module is implemented on top of the ZooKeeper C API; consult the [ZK Reference](http://zookeeper.apache.org/doc/r3.4.0/index.html) for further details on behavior.
