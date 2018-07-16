@@ -18,11 +18,11 @@
   }
   ,"keywords": ["apache", "zookeeper", "client"]
   ,"dependencies": {
-    "async": "~0.2.6"
+    "async": "~2.6.1"
     ,"underscore": "*"
   }
   ,"devDependencies": {
-    "log4js": "~0.6.0"
+    "log4js": "~3.0.0"
     ,"webworker": ">=0.8.4"
   }
   ,"main": "lib/index"
