@@ -22,7 +22,7 @@
     ,"underscore": "*"
   }
   ,"devDependencies": {
-    "log4js": "~0.6.0"
+    "log4js": "~6.4.0"
     ,"webworker": ">=0.8.4"
   }
   ,"main": "lib/index"
